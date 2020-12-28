@@ -1,0 +1,1 @@
+# JavaScript Beginner project (DOM)
